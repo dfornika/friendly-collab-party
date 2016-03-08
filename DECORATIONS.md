@@ -1,3 +1,8 @@
+
+I think some streamers would add some fun colour. 
+
+![streamers](http://previews.123rf.com/images/rangizzz/rangizzz1112/rangizzz111200063/11764088-Set-of-colorful-streamers-isolated-on-white-background-Stock-Photo.jpg)
+
 ### Decorations make or break a party!
 
 I suggest yellow and blue balloons to go with the Minion costumes.
@@ -7,3 +12,4 @@ I suggest yellow and blue balloons to go with the Minion costumes.
 Or these ones:
 
 ![more balloons](http://www.theballoonblast.ca/wp-content/uploads/2014/08/arch_trail_com1.jpg)
+>>>>>>> master
