@@ -5,7 +5,7 @@ I'm totally clueless about how to plan a party and would love your help making t
 
 ## How to
 
-* Please see the [open issues](https://github.com/joeyklee/friendly-collab-party/issues)
+* Please see the open issues on the 'Issues' tab.
 * Comment on the issue introducing yourself so that I know who is working on what
 * Fork the repo --> make your changes --> make a pull request
 
